@@ -1,0 +1,3 @@
+Learning Rate :
+This is a crucial parameters to be fine tuned. Some technique that worsk well are
+  Use LR Finder i.e increment the LR from lower initial value like 1e-5 for ea
