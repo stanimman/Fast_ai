@@ -15,7 +15,7 @@ import pandas as pd
 from time import time
 from PIL import Image
 import torch.nn as nn
-from torch._six import inf
+#from torch._six import inf
 import torch.optim as optim
 from functools import partial
 import torch.nn.functional as F
